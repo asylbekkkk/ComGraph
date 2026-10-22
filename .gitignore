@@ -1,4 +1,4 @@
 app
 *.o
 *.exe
-.vscode/
+.vscode/*.mp4
